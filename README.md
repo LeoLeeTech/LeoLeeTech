@@ -1,3 +1,3 @@
 ### Hi guys! 👋   
-### I'm Leo.
+### I'm Leo Lee.
 ### What do you think of my pink Leo avatar? Looking good, right?
