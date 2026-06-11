@@ -14,3 +14,9 @@
 [007. 一条命令让你这辈子彻底解决 “LF will be replaced by CRLF”](https://leolee.tech/blog/fix-git-lf-crlf)
 
 ## 视频
+
+[003. Token == 词元，但我更想借此表达以后请开始中英混说](https://www.youtube.com/watch?v=t7YCewfP5tU)
+
+[004. 以 OpenClaw 为例，为什么你无法复现视频教程｜Node｜NVM｜NPM｜latest 陷阱](https://www.youtube.com/watch?v=6TSlVErmCp4)
+
+[00.8 Builder 第一课：白嫖赛博大善人，通过域名（不用备案）让国内用户丝滑访问](https://www.youtube.com/watch?v=ICWb_6B7Cno)
