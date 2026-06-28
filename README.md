@@ -19,4 +19,4 @@
 
 [004. 一样的命令为什么执行结果和教程不一样? 我来告诉你为什么无法复现 | 前端环境的正确配置方式? 使用 NVM ](https://www.youtube.com/watch?v=6TSlVErmCp4)
 
-[008. 怎样通过域名白嫖赛博大善人,让产品被丝滑访问? | 全球最低价域名70元10年](https://www.youtube.com/watch?v=ICWb_6B7Cno)
+[008. 怎样通过域名白嫖赛博大善人 CloudFlare,让产品被丝滑访问? | 全球最低价域名70元10年](https://www.youtube.com/watch?v=ICWb_6B7Cno)
