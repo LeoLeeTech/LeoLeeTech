@@ -15,8 +15,8 @@
 
 ## 视频
 
-[003. Token == 词元，但我更想借此表达以后请开始中英混说](https://www.youtube.com/watch?v=t7YCewfP5tU)
+[003. 请习惯开始中英混说](https://www.youtube.com/watch?v=t7YCewfP5tU)
 
-[004. 以 OpenClaw 为例，为什么你无法复现视频教程｜Node｜NVM｜NPM｜latest 陷阱](https://www.youtube.com/watch?v=6TSlVErmCp4)
+[004. 一样的命令为什么执行结果和教程不一样? 我来告诉你为什么无法复现 | 前端环境的正确配置方式? 使用 NVM ](https://www.youtube.com/watch?v=6TSlVErmCp4)
 
-[00.8 Builder 第一课：白嫖赛博大善人，通过域名（不用备案）让国内用户丝滑访问](https://www.youtube.com/watch?v=ICWb_6B7Cno)
+[008. 怎样通过域名白嫖赛博大善人,让产品被丝滑访问? | 全球最低价域名70元10年](https://www.youtube.com/watch?v=ICWb_6B7Cno)
